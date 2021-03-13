@@ -40,7 +40,9 @@ Matplotlib Challenge for 2021 Data Analytics Bootcamp
   
         a. A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
-        b. A bar plot using both Pandas's and Matplotlib's that shows the distribution of female or male mice in the study.
+        b. A bar graph using both Pandas's and Matplotlib's that shows the total number of measurements taken on each drug regimen
+        
+        c. A pie chart using both Pandas's and Matplotlib's that shows the distribution of female or male mice in the study.
         
         c. A box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
         
