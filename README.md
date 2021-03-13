@@ -2,21 +2,24 @@
 Matplotlib Challenge for 2021 Data Analytics Bootcamp
 
 
-Here are some concepts that were covered in this Matplotlib Project:
+     Here are some concepts that were covered in this Matplotlib Project:
 
-  a. Calling out depencies such as Pandas, matplotlib, spicy.stats, numpy libraries and their functions
+      a. Calling out dependencies such as Pandas, Matplotlib, Spicy.Stats, Numpy libraries and their functions
   
   
-  b. Creating dataframes, merge datasets, applying left joins, groupby statements
+      b. Creating dataframes, merge datasets, applying left joins, groupby statements
 
 
-  c. Calculating mean, average, median, variance, standard deviation, standard error of mean, line of regression, correlation coefficient
+      c. Calculating mean, average, median, variance, standard deviation, standard error of mean, line of regression, correlation coefficient
 
 
-  d. Creating 
+      d. Creating summary tables to display summary data
 
 
-  e. Plotting bar graphs, pie charts using Pandas and using pyplot.
+      e. Plotting bar graphs, pie charts using Pandas and using pyplot.
 
 
-  f. Creating whiskerplots, scatter plots and line of regression
+      f. Creating whiskerplots, scatter plots and line of regression
+      
+      
+      g. Looping through dataset to calculate and print values in one sitting
