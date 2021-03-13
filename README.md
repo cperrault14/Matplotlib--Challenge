@@ -23,3 +23,7 @@ Matplotlib Challenge for 2021 Data Analytics Bootcamp
       
       
       g. Looping through dataset to calculate and print values in one sitting
+      
+      
+      ![image](https://user-images.githubusercontent.com/74305622/111052293-a1518f80-8427-11eb-88f8-758ebab4f200.png)
+
