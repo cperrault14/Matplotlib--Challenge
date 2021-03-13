@@ -1,0 +1,20 @@
+1st Obervation:
+Mice that were under treatment Ramicane and Capolumin seem to have had their weight 
+counted more than the ones affetced by the other treatments. 
+
+2nd Observation:
+There seems to be as many percentage of female testers as there are male testers.
+
+3rd Observation:
+For the drug regimen that seems to be more successful than others, 
+the mice treated with Infubinol seem to have the most amount of outliers with 1 outlier.
+Additionally, mice treated with Ceftamin seem to have a bigger difference between the lower and upper bound.
+
+4th Observation:
+Mouse i557 tumor volume seems to going down within the first five days of treatment. 
+However, past 5 days or so, the tumor voum eseem to be growing exponentially.
+
+5th Observation:
+There seems to be a positive correlation betweeem the wight of a mouse and its average tumor volume. 
+It seems liek the bigger the mouse, the bigger the tumor volume. 
+
